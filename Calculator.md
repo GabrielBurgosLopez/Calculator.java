@@ -36,7 +36,7 @@ public class Calculator {
 	 * Escribir todos los números del number al 0 de step en step.
 	 */
 	public static int[] stepThisNumber(int number, int step) {
-		int cont = 0, num = number;
+		int cont = 0, num = number
 		
 		while(num-step>0) {
 			num-=step;
