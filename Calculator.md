@@ -206,6 +206,7 @@ public class Calculator {
         } catch (ParseException e) {
             return false;
         }
+	
         return true;
     }
 }
